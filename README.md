@@ -251,20 +251,6 @@ npm install
 
 ---
 
- ## 🔐 Environment Variables
-
- Create a `.env` file in the project root:
-
-```
-VITE_API_URL=http://localhost:3000
-```
-
- Update `VITE_API_URL` to match the URL of your NestJS backend server.
-
- > ⚠️ **Important:** Never commit sensitive environment variables, passwords, API keys, or database credentials to GitHub.
-
----
-
  ## ▶️ Run the Development Server
 
  Start the frontend development server:
